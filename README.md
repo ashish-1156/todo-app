@@ -1,3 +1,4 @@
+
 # TaskFlow — To-Do App
 
 A simple full-stack task manager built with HTML, CSS, vanilla JavaScript, FastAPI, SQLAlchemy, and SQLite.
@@ -69,3 +70,4 @@ todo-app/
 | DELETE | `/api/tasks/{task_id}` | Delete a task |
 
 For this starter project, the app is intended to run locally. Before public deployment, add authentication, database migrations, automated tests, and production server configuration.
+ 3fc80bbed70e870e80ef5bdc0eadbb51ba410ba3
